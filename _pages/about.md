@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Zhang Peng](https://gr.xjtu.edu.cn/w
 
 I am currently working on a computer assistance website and welcome everyone to contact me to collaborate
 
-You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [CV](_pages/Wen's CV.pdf).
 
 [Email](wenyexjtu@gmail.com) / [Github](https://nlnuli.github.io/ericYe.github.io/) / [CSDN](https://blog.csdn.net/NU_LI_/)
 
